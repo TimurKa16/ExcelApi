@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\bin\Debug\Work_with_Excel.exe.config
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\bin\Debug\Work_with_Excel.exe
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\bin\Debug\Work_with_Excel.pdb
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\obj\Debug\Work_with_Excel.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\obj\Debug\Work_with_Excel.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\obj\Debug\Work_with_Excel.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\obj\Debug\Work_with_Excel.exe
+C:\Users\USER\source\repos\Master\Work_with_Excel\Work_with_Excel\obj\Debug\Work_with_Excel.pdb
